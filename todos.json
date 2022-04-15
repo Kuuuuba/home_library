@@ -1,0 +1,12 @@
+todos = [
+    {
+        'title': 'Kupno konsoli',
+        'description': 'cena, opinie, wydajność, jakość',
+        'done': False
+    },
+    {
+        'title': 'Leniwa lub aktywna niedziala',
+        'description': 'Aktywnie uczestniczyć w zdalnych zajęciach na uczelni czy leniwie oglądać ciekawe widowiska piłkarskie',
+        'done': False
+    }
+]
